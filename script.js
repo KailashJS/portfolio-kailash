@@ -165,8 +165,8 @@ const projects = [
     projectDescription:
       "Designed & Built the Portfolio using HTML CSS and Vanilla JavaScript to show case the Professional Journey.",
     projectImage: "images/portfolio.png",
-    codeLink: "https://github.com/KailashJS/kailash-portfolio",
-    demoLink: "http://upskilljs.com/kailash"
+    codeLink: "https://github.com/KailashJS/kailash-portfolio/",
+    demoLink: "http://upskilljs.com/kailash.html"
   },
   {
     projectName: "Pulse graph",
